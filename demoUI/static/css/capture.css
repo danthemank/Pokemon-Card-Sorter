@@ -1,0 +1,113 @@
+.card{
+    max-height: 90vh;
+    height: 90vh;
+    display: flex;
+}
+.booth{
+	background:#ccc;
+	border:10px solid #ddd;
+	margin: 0px auto;
+}
+.button-bar{
+    text-align: center;
+}
+.button-bar a{
+    margin-right: 1vh;
+}
+.booth{
+    display: none;
+}
+.imageContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.resultPanel textarea{
+    width: 100%;
+    height: 30ch;
+}
+.cardInfoPanel{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    background-color: rgb(12 11 50 / 90%);
+    width: 50vw;
+    max-height: 60vh;
+    justify-content: space-evenly;
+	border: solid #94afc8;
+}
+img{
+    max-width: 100%;
+    max-height: 90%;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+.cardInfoPanel label{
+    width: 35ch;
+}
+.cardInfoPanel .detail.template{
+    display: none;
+}
+.cardInfoPanel .detail{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2.6vh;
+}
+.cardInfoPanel .detail.bold{
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-size: 4vh;
+}
+
+.cardInfoPanel .group, .cardInfoPanel .subtotal{
+    border: solid #94afc8;
+    border: none;
+}
+.cardInfoPanel .group{
+    display: none;
+}
+
+.detailLabel{
+    margin-left: 2vw;
+    text-align: left;
+    text-transform: capitalize;
+}
+.detailValue{
+    margin-right: 2vw;
+    text-align: right;
+}
+
+
+.hidden{
+	display: none;
+}
+.canvasPreview, .staticImage, .referenceImage{
+	border: solid #94afc8;
+    background-color: rgb(12 11 50 / 50%);
+    max-height: 60vh;
+    text-align: center;
+    margin-right: 0.5vw;
+}
+.canvasPreview p, .staticImage p, .referenceImage p{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 500;
+}
+canvas{
+    width: 100%;
+    max-height: 90%;
+}
+.monitorCanvas canvas{
+	height:100%;
+	width:min-content;
+}
+.monitor-container {
+    .card-body{
+        height:80vh;
+    }
+    .canvasPreview{
+        max-height: 75vh;
+    }
+}

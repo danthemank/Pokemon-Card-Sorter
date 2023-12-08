@@ -1,0 +1,40 @@
+
+mkdir pokemonCard
+cd pokemonCard/
+mkdir -p pokemonCardFiles/referenceImages
+mkdir -p pokemonCardFiles/savedImages/
+mkdir pokemonCardUi
+cd pokemonCardUi/
+git clone  https://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@github.com/drftrcld/pokemonCardUi.git .
+sudo pip install virtualenv
+
+virtualenv env
+source env/bin/activate
+pip install DatabaseImageMatchingLibrary/
+pip install -r requirementsLinux.txt
+
+cd ./pokemonCardUi
+######to run in automatic mode:
+./admin.sh  
+######to start web server for web user interface
+./runUIwebServer.sh
+
+pyinstaller --onedir --noconfirm .\entry_point.py
+
+pyinstaller --onedir --noconfirm --collect-all opencv-python .\entry_point.py
+
+pyinstaller --noconfirm .\entry_point.spec
+
+
+sudo apt-get install pigpio
+sudo systemctl enable pigpiod.service
+sudo systemctl start pigpiod.service
+sudo pkill pigpiod
+
+
+sudo touch /lib/systemd/system/pokemon-admin.service
+sudo systemctl daemon-reload
+sudo systemctl enable pokemon-admin.service
+sudo systemctl start pokemon-admin.service
+sudo systemctl status pokemon-admin.service
+sudo journalctl -u pokemon-admin.service -f

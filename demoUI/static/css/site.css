@@ -1,0 +1,72 @@
+body{
+    background-image: url("/static/images/background.png");
+    background-size: cover;
+    color:  #94afc8;
+    background-color: rgb(12 11 50 / 50%);
+    overflow-x: clip;
+    overflow-y: clip;
+}
+.container{
+    margin: 1vh;
+    padding: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100vw;
+}
+.row{
+}
+.col-sm-12{
+    padding: 0;
+}
+.card-body {
+    padding: 0.5vw;
+}
+.card{
+    background-color: unset;
+}
+.titleBar {
+    display: flex;
+    justify-content: space-between;
+}
+.titleBar .logoA{
+    max-height: 7.5vh;
+}
+.titleBar .logoB{
+    max-height: 7.5vh;
+}
+.titleBar .spacer{
+    width: 10ch;
+}
+.titleBar span{
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.navbar {
+    background-color: lightslategray;
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    padding: 8px 5px 8px 5px;
+    display: flow-root;
+    display: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar-brand {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.navbar-item {
+    font-variant: small-caps;
+    margin-left: 30px;
+}
+
+.body-content {
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

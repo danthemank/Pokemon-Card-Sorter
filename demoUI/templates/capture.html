@@ -1,0 +1,83 @@
+
+{% extends "layout.html" %}
+
+{% block title %}
+    Card Sorter System
+{% endblock %}
+
+{% block styles %}
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/capture.css')}}">
+	<script type="text/javascript">
+		//var squareLimits=[ 80, 20, 150, 100]
+		//squareLimits= {{  square_limits | safe}}
+		//console.log(squareLimits)
+	</script>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="card">
+			  <div class="card-body">
+                <div class="imageContainer">
+				    <div class="booth">
+				    	<video id="video"  autoplay ></video>
+				    </div>
+				    <div class="canvasPreview hidden">
+                        <p>camera feed</p>
+                        <!--canvas style="display:none;"></canvas-->
+                        <canvas ></canvas>
+				    </div>
+				    <div class="staticImage hidden">
+                        <p>image to analyse</p>
+                        <img  src="">
+				    </div>
+					<div class="referenceImage hidden">
+                        <p>reference image match</p>
+                        <img  src="">
+				    </div>
+				<div class="cardInfoPanel hidden">
+					<div class="groupContainer">
+						<div class="group">
+						</div>
+						<div class="subtotal">
+						</div>
+					</div>
+					<div class="detail template">
+						<label class="detailLabel"></label>
+						<label class="detailValue"></label>
+					</div>
+				</div>
+               </div>
+			  </div>
+			  <div class="card-body">
+				<div class="button-bar">
+					<a href="#!" class="btn btn-warning {{ '' if mode=='debug' else 'hidden' }}" onClick="analyse()">Update Database</a>
+					<a href="#!" class="btn btn-danger" onClick="reset()">Reset</a>
+					<a href="#!" class="btn btn-danger" onClick="stop()">Stop Cam</a>
+					<a href="#!" class="btn btn-success" onClick="start()">Start Cam</a>
+					<a href="#!" class="btn btn-success" onClick="save()">Save Picture</a>
+					<a href="#!" class="btn btn-success" onClick="identify()">Identify Card</a>
+				</div>
+				<div class="resultPanel {{ '' if mode=='debug1' else 'hidden' }}">
+					<textarea>
+					</textarea>
+				</div>
+			  </div>
+			</div>
+			
+		</div>
+	</iv>
+</div>
+<script type="text/javascript" src="{{ url_for('static', filename='js/capture.js')}}"></script>
+<script type="text/javascript">
+	var squareLimits=[ 80, 20, 150, 100]
+	squareLimits= {{  square_limits | safe}}
+	flipVertically={{  flipVertically | safe}}
+	flipHorizontally={{  flipHorizontally | safe}}
+
+	//console.log(squareLimits)
+	//console.log(flipHorizontally)
+</script>
+{% endblock %}

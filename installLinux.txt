@@ -1,0 +1,21 @@
+run this commands:
+
+cd C:\Users\cocoa\Documents\GitHub\pokemonCardUi
+virtualenv env
+source env/bin/activate
+pip install -r requirementsLinux.txt
+run.cmd
+
+to update the required python dependencies:
+rem pip freeze > requirements.txt
+
+rem pip install DatabaseImageMatchingLibrary\
+
+
+to sync with a github repo:
+git remote set-url origin https://:@github.com/drftrcld/pokemonCardUi.git
+
+
+Yep just got to the shop and setup
+889 362 970
+i6p8cm76

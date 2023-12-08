@@ -1,0 +1,98 @@
+{
+   "match_script_path":"./matchingScript/test_script.py"
+  ,"_comment1":"unused tag"
+
+  ,"database_file":"/home/ed/GitHub/pokemonCardUi/cardsDatabase/pokemon_cards.db"
+
+  ,"database_base_path":"/home/ed/GitHub/pokemonCardUi/matchingScript/"
+  ,"l_database_base_path":"pokemoncard.files"
+  ,"image_descriptor_file_npz":"SIFT.npz"
+  ,"length_descriptor_file_npy":"Database_Descriptors.npy"
+  ,"database_dict_file": "Database_Dict.json"
+
+  ,"artwork_image_path":"/home/ed/GitHub/pokemonCardFiles/referenceImages/"
+  ,"reference_image_path":"/home/ed/GitHub/pokemonCardFiles/referenceImages/"
+  ,"saved_image_path":"/home/ed/GitHub/pokemonCardFiles/savedImages/"
+
+  ,"saved_image_format":"png"
+
+  ,"square_limits" :[0, 0, 200, 250]
+  ,"square_limits_b" :[0, 0, 200, 250]
+
+  ,"x_square_limits" :[90, 25, 150, 200]
+  ,"x_square_limits_b" :[90, 25, 150, 200]
+
+  ,"initial_scale":150
+  ,"_comment2":"startWidth startHeight, Width, Height"
+  ,"_comment3":[1628, 988, 1040, 740]
+  ,"_comment4" :[200, 100, 300, 150]
+
+  ,"camera_resolution" :[320, 240]
+  ,"preview_scale_percent" : 50
+  ,"_camera_resolution" :[640, 480]
+  ,"_preview_scale_percent" : 100
+
+  ,"flipHorizontally":"true"
+  ,"flipVertically":"true"
+
+  ,"flipHorizontally_b":"false"
+  ,"flipVertically_b":"false"
+
+  ,"price_treshold_low":0.15
+  ,"price_treshold_mid":0.30
+
+  ,"wait_for_capture":0.001
+  ,"wait_for_processing":0.01
+  ,"wait_between_actions":0.5
+
+  ,"wait_for_card_dealer":2.5
+  ,"wait_for_lights":1.5
+  ,"wait_for_servo_bin":2.5
+  ,"wait_for_card_dump":2.5
+
+  ,"max_frame_takes":0
+
+  ,"_____________1":"GPIO PINS"
+  ,"pin_dealer" : 17
+  ,"pin_light_A" : 22
+  ,"pin_light_B" : 5
+  ,"pin_button" : 26
+
+  ,"_____________PWM PINS":""
+  ,"pin_servo_A" : 12
+  ,"pin_servo_B" : 13
+
+  ,"servo_A_pwm_frecuency_hz": 50
+  ,"servo_B_pwm_frecuency_hz": 50
+
+  ,"servo_A_pwm_angle_rest": 90
+  ,"servo_A_pwm_angle_dump": 45
+
+  ,"servo_B_pwm_angle_rest": 0
+  ,"servo_B_pwm_angle_low": 60
+  ,"servo_B_pwm_angle_medium": 120
+  ,"servo_B_pwm_angle_high": 180
+
+  ,"camera_A_port": 1
+  ,"camera_B_port": -1
+
+  ,"use_multi_proccess" : true
+  ,"use_remote" :false
+  ,"process_number" : 3
+  ,"m_process_number" : 3
+  ,"l_process_number" : 7
+  ,"cards_number" : 17000
+  ,"n_cards_number" : 17000
+  ,"h_cards_number" : 1500
+  ,"split_database" : true
+
+  ,"use_gpio" : true
+
+  ,"lambda_url" : "https://jumqv7ndacbcug6r3wxc6kbm2q0dumqw.lambda-url.us-east-1.on.aws/"
+  ,"lambda_url_localhost" : "http://localhost:9000/2015-03-31/functions/function/invocations"
+
+  ,"high_price_threshold" : 15
+  ,"confidence_threshold" : 4000
+  ,"only_high_price" : true
+
+}

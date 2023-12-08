@@ -1,0 +1,93 @@
+aws configure sso
+aws ecr get-login-password --region us-east-1 --profile admin | sudo docker login --username AWS --password-stdin 047627598834.dkr.ecr.us-east-1.amazonaws.com
+
+WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+
+aws ecr create-repository --repository-name pokemon-card-repo --image-scanning-configuration scanOnPush=true --image-tag-mutability MUTABLE --region us-east-1 --profile admin
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:us-east-1:047627598834:repository/pokemon-card-repo",
+        "registryId": "047627598834",
+        "repositoryName": "pokemon-card-repo",
+        "repositoryUri": "047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo",
+        "createdAt": "2023-07-23T12:14:10-05:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": true
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}
+
+sudo docker tag python-lambda-pokemon:test 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+
+sudo docker push 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+
+aws lambda create-function --region us-east-1 --profile admin \
+  --function-name python-lambda-pokemon   \ 
+  --package-type Image \
+  --code ImageUri=047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest \
+  --role arn:aws:iam::047627598834:role/service-role/testMatching-role-dpzagkib
+
+{
+    "FunctionName": "python-lambda-pokemon",
+    "FunctionArn": "arn:aws:lambda:us-east-1:047627598834:function:python-lambda-pokemon",
+    "Role": "arn:aws:iam::047627598834:role/service-role/testMatching-role-dpzagkib",
+    "CodeSize": 0,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2023-07-23T17:39:51.456+0000",
+    "CodeSha256": "cbd8caaea4cc09a183fed3c46e013d5274b903d4e92df914166aefb86e2f62ae",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "72999ef7-b9b7-42c7-b979-0b33795f5ca3",
+    "State": "Pending",
+    "StateReason": "The function is being created.",
+    "StateReasonCode": "Creating",
+    "PackageType": "Image",
+    "Architectures": [
+        "x86_64"
+    ],
+    "EphemeralStorage": {
+        "Size": 512
+    },
+    "SnapStart": {
+        "ApplyOn": "None",
+        "OptimizationStatus": "Off"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+sudo docker run -p 9000:8080 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+sudo docker images --digests
+sudo docker run -p 9000:8080 python-lambda-pokemon:test
+sudo docker build -t python-lambda-pokemon:test .
+sudo docker tag python-lambda-pokemon:test python-lambda-pokemon:initial
+
+sudo docker build -t python-lambda-pokemon:test .
+sudo docker tag python-lambda-pokemon:test 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+sudo docker push 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+aws lambda update-function-code --function-name python-lambda-pokemon --image-uri 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+aws lambda update-function-code --region us-east-1 --profile admin --function-name python-lambda-pokemon --image-uri 047627598834.dkr.ecr.us-east-1.amazonaws.com/pokemon-card-repo:latest
+
+
+
+curl -XPOST "http://localhost:9000/2015-03-31/functions/function/invocations" -d '{"data":{"image_path":"xx", "image_b64":"dfdjl","initial_crop":[1,2,3,4],"initial_scale":0.5,"image_range":[1,2399999999999]}}'o

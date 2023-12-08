@@ -1,0 +1,61 @@
+{
+   "match_script_path":"./matchingScript/test_script.py"
+  ,"_comment1":"unused tag"
+
+  ,"database_file":"/home/goodwill/pokemonCard/pokemonCardUi/cardsDatabase/pokemon_cards.db"
+
+  ,"database_base_path":"/home/goodwill/pokemonCard/pokemonCardUi/matchingScript/"
+  ,"database_cvs_file":"2022-05-18-updated-card-info.csv"
+  ,"image_descriptor_file_npz":"SIFT.npz"
+  ,"length_descriptor_file_npy":"Database_Descriptors.npy"
+  ,"database_dict_file": "Database_Dict.json"
+  ,"database_json_file": "Database300.json"
+
+  ,"artwork_image_path":"/home/goodwill/pokemonCard/pokemonCardFiles/referenceImages/"
+  ,"reference_image_path":"/home/goodwill/pokemonCard/pokemonCardFiles/referenceImages/"
+  ,"saved_image_path":"/home/goodwill/pokemonCard/pokemonCardFiles/savedImages/"
+
+  ,"saved_image_format":"png"
+
+  ,"square_limits" :[300, 100, 200, 300]
+  ,"square_limits_b" :[300, 100, 200, 300]
+  ,"_comment2":"startWidth startHeight, Width, Height"
+  ,"_comment3":[1628, 988, 1040, 740]
+  ,"_comment4" :[200, 100, 300, 150]
+
+  ,"flipHorizontally":"true"
+  ,"flipVertically":"false"
+
+  ,"flipHorizontally_b":"true"
+  ,"flipVertically_b":"false"
+
+  ,"price_treshold_low":0.15
+  ,"price_treshold_mid":0.30
+
+  ,"wait_for_capture":0.001
+  ,"wait_for_processing":1
+  ,"wait_between_actions":0.5
+
+  ,"wait_for_card_dealer":2
+  ,"wait_for_high_blower":3
+  ,"wait_for_mid_blower":4
+  ,"wait_for_low_blower":4
+  ,"wait_for_lights":3
+
+  ,"max_frame_takes":0
+
+  ,"pin_dealer" :12 
+  ,"pin_low_blower" : 16
+  ,"pin_high_blower" : 20
+  ,"pin_mid_blower" : 21
+  ,"pin_light" : 18
+  ,"pin_button" : 17
+
+  ,"light_pwm_frecuency_hz": 1000
+  ,"light_pwm_duty_cycle": 50.0
+
+
+  ,"camera_A_port": 0
+  ,"camera_B_port": 1
+
+}

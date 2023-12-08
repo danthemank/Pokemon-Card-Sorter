@@ -1,0 +1,42 @@
+run this commands:
+
+cd C:\Users\cocoa\Documents\GitHub\pokemonCardUi
+virtualenv env
+.\env\Scripts\activate
+pip install -r requirements.txt
+run.cmd
+
+to update the required python dependencies:
+rem pip freeze > requirements.txt
+
+rem pip install DatabaseImageMatchingLibrary\
+
+
+to sync with a github repo:
+git remote set-url origin https://:@github.com/drftrcld/pokemonCardUi.git
+
+
+Yep just got to the shop and setup
+889 362 970
+i6p8cm76
+
+install virtual camera
+sudo apt-get update
+sudo apt-get -y install v4l2loopback-dkms 
+
+sudo modprobe v4l2loopback devices=1 video_nr=1 card_label='MyWebCam'
+sudo modprobe v4l2loopback devices=1 video_nr=1 card_label='MyWebCam' exclusive_caps=1
+sudo modprobe v4l2loopback devices=2 video_nr=1,2 card_label="'MyWebCam1','MyWebCam2'" exclusive_caps=1,1 Windows virtual camera
+
+ffmpeg -re -i input.mp4 -map 0:v -f v4l2 /dev/video0
+
+sudo modprobe v4l2loopback devices=2 video_nr=1,2 card_label="'MyWebCam1','MyWebCam2'"
+sudo modprobe -r v4l2loopback
+
+sudo ffmpeg -r 30 -stream_loop -1  -i ~/demoVideo.mp4 -map 0:v -f v4l2 /dev/video1
+sudo ffmpeg -r 30 -stream_loop -1  -i ~/demoVideo.mp4 -map 0:v -f v4l2 /dev/video2
+
+sudo ffmpeg -r 30 -stream_loop -1  -i ~/pokemon_card_backside.png -vf format=yuv420p  -map 0:v -f v4l2 /dev/video2
+
+
+ssh -o "ServerAliveInterval 60" -NR 0.0.0.0:9505:jumqv7ndacbcug6r3wxc6kbm2q0dumqw.lambda-url.us-east-1.on.aws:80 virtualbox

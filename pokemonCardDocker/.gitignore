@@ -1,0 +1,14 @@
+Database300.json
+Database_Descriptors.npy
+Database_Dict.json
+DatabaseImageMatchingLibrary
+Database.json
+#Dockerfile
+#Dockerfile_initial
+#lambda_function.py
+#notes.txt
+#requirementsLambda.txt
+#requirements.txt
+#settings.json
+SIFT.npz
+testMatching.py

@@ -1,0 +1,123 @@
+{
+   "match_script_path":"./matchingScript/test_script.py"
+  ,"_comment1":"unused tag"
+
+  ,"database_file":"C:/Users/cocoa/Documents/GitHub/pokemonCardUi/cardsDatabase/pokemon_cards.db"
+  ,"use_s3" : false
+
+  ,"database_base_path":"C:/Users/cocoa/Documents/GitHub/pokemonCardUi/matchingScript/"
+  ,"l_database_base_path":"pokemoncard.files"
+  ,"image_descriptor_file_npz":"SIFT.npz"
+  ,"length_descriptor_file_npy":"Database_Descriptors.npy"
+  ,"database_dict_file": "Database_Dict.json"
+
+  ,"artwork_image_path":"C:/Users/cocoa/Documents/GitHub/pokemonCardFiles/referenceImages/"
+  ,"reference_image_path":"C:/Users/cocoa/Documents/GitHub/pokemonCardFiles/referenceImages/"
+  ,"saved_image_path":"C:/Users/cocoa/Documents/GitHub/pokemonCardFiles/savedImages/"
+
+  ,"saved_image_format":"png"
+
+  ,"square_limits" :[-1, -1, -1, -1]
+  ,"square_limits_b" :[-1, -1, -1, -1]
+
+  ,"x_square_limits" :[90, 25, 150, 200]
+  ,"x_square_limits_b" :[90, 25, 150, 200]
+
+  ,"r_square_limits" :[90, 25, 150, 200]
+  ,"r_square_limits_b" :[90, 25, 150, 200]
+
+
+  ,"initial_scale":150
+  ,"_comment2":"startWidth startHeight, Width, Height"
+  ,"_comment3":[1628, 988, 1040, 740]
+  ,"_comment4" :[200, 100, 300, 150]
+
+  ,"_camera_resolution" :[320, 240]
+  ,"_preview_scale_percent" : 50
+  ,"camera_resolution" :[640, 480]
+  ,"preview_scale_percent" : 100
+
+  ,"flipHorizontally":"true"
+  ,"flipVertically":"true"
+
+  ,"flipHorizontally_b":"false"
+  ,"flipVertically_b":"false"
+
+  ,"price_treshold_low":0.15
+  ,"price_treshold_mid":0.30
+
+  ,"wait_for_capture":0.001
+  ,"wait_for_processing":0.01
+  ,"wait_between_actions":0.5
+
+  ,"wait_for_card_dealer":1
+  ,"wait_for_lights":1.5
+  ,"wait_for_servo_bin":1.0
+  ,"wait_for_card_dump":2.5
+
+  ,"max_frame_takes":0
+
+  ,"_____________1":"GPIO PINS"
+  ,"pin_dealer" : 17
+  ,"pin_dealer_B" : 16
+  ,"pin_light_A" : 22
+  ,"pin_light_B" : 5
+  ,"pin_button" : 26
+  ,"pin_button_b" : 25
+  ,"pin_button_c" : 6
+
+  ,"__________B__PWM PINS":""
+  ,"pin_servo_A" : 13
+  ,"pin_servo_B" : 12
+
+  ,"servo_A_pwm_frecuency_hz": 50
+  ,"servo_B_pwm_frecuency_hz": 50
+
+  ,"servo_A_pwm_angle_rest": 9
+  ,"servo_A_pwm_angle_dump": 6.5
+
+  ,"servo_B_use_bus_serial": true
+  ,"servo_B_pwm_angle_low": 320
+  ,"servo_B_pwm_angle_middle_low": 1690
+  ,"servo_B_pwm_angle_middle": 1690
+  ,"servo_B_pwm_angle_high": 3060
+
+  ,"pwm_servo_B_pwm_angle_low": 1.5
+  ,"pwm_servo_B_pwm_angle_middle_low": 7.5
+  ,"pwm_servo_B_pwm_angle_middle": 6 
+  ,"pwm_servo_B_pwm_angle_high": 12.5
+
+  ,"use_hardware_pwm": false
+  ,"use_daemon": true
+  ,"channel_servo_A_hdw":0
+  ,"channel_servo_B_hdw":1
+
+
+  ,"camera_A_port": 1
+  ,"camera_B_port": 0
+
+  ,"use_multi_proccess" : false
+  ,"use_remote" :false
+  ,"process_number" : 7
+  ,"m_process_number" : 4
+  ,"l_process_number" : 7
+  ,"cards_number" : 17000
+  ,"n_cards_number" : 17000
+  ,"h_cards_number" : 1500
+  ,"split_database" : true
+
+  ,"use_gpio" : false
+
+  ,"lambda_url" : "http://127.0.0.1:5000/lambda"
+  ,"r_lambda_url" : "https://jumqv7ndacbcug6r3wxc6kbm2q0dumqw.lambda-url.us-east-1.on.aws/"
+  ,"lambda_url_localhost" : "http://localhost:9000/2015-03-31/functions/function/invocations"
+
+  ,"high_price_threshold" : 15
+  ,"confidence_threshold" : 4000
+  ,"only_high_price" : false
+  ,"pause_videofeed" : false
+  ,"_image_path_sample":"/home/goodwill/pokemonCard/pokemonCardFiles/referenceImagesLarge/base2/base2-31.png"
+  ,"image_path_sample":"C:\\Users\\cocoa\\Documents\\GitHub\\pokemonCardFiles\\referenceImages\\swsh8\\swsh8-191.png"
+
+
+}

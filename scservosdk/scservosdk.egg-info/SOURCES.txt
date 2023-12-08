@@ -1,0 +1,5 @@
+setup.py
+scservosdk.egg-info/PKG-INFO
+scservosdk.egg-info/SOURCES.txt
+scservosdk.egg-info/dependency_links.txt
+scservosdk.egg-info/top_level.txt

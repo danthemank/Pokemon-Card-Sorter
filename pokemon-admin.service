@@ -1,0 +1,19 @@
+[Unit]
+Description=Pokemon Admin Service
+# After=multi-user.target
+# After=network.target
+
+[Service]
+#
+#ExecStart=sudo bash -c "/home/ed/GitHub/pokemonCardUi/admin.sh 0 n"
+ExecStart=sudo bash -c "/home/goodwill/pokemonCard/pokemonCardUi/daemon.sh"
+#ExecStart=sudo bash -c "/home/goodwill/pokemonCard/pokemonCardUi/admin.sh 0 n"
+#ExecStart=sudo bash -c "/home/ed/GitHub/pokemonCardUi/daemon.sh"
+#WorkingDirectory=/home/ed/GitHub/pokemonCardUi/
+WorkingDirectory=/home/goodwill/pokemonCard/pokemonCardUi/
+Restart=no
+#Restart=always
+
+[Install]
+WantedBy=multi-user.target
+

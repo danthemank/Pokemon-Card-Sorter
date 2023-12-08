@@ -1,0 +1,8 @@
+{
+  "database_base_path":"pokemoncard.files"
+  ,"use_s3" : true
+  ,"_database_base_path":"C:/Users/cocoa/Documents/GitHub/pokemonCardUi/matchingScript/"
+  ,"_use_s3" : false
+  ,"image_descriptor_file_npz":"SIFT.npz"
+  ,"use_gpio" : false
+}

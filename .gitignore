@@ -1,0 +1,11 @@
+**/__pycache__
+env/**
+build/**
+**/build/**
+*.swp
+*.db
+cardsDatabase/card_images/**
+tags
+SIFT.npz
+Database_Descriptors.npy
+Database_Dict.json

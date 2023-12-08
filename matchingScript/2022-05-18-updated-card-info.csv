@@ -1,0 +1,301 @@
+,imgname,database,id,name,rarity,cardmarket.prices.averageSellPrice,art.style,edges,corners,surface,centering,recent.sale.price,sold.at
+0,2022-05-09 16.18.18.jpg,14310.png,swsh8-241,Sidney,Uncommon,0.07,no,8.5,9,9,8.5,0.07,Ebay
+1,2022-05-09 16.18.25.jpg,11647.png,swsh3-131,Cufant,Common,0.06,no,8,9,8.5,8.5,0.06,Ebay
+2,2022-05-09 16.18.33.jpg,8642.png,swsh3-82,Sinistea,Common,0.06,no,9,8,9,8.5,0.06,Ebay
+3,2022-05-09 16.18.42.jpg,4243.png,swsh3-38,Feebas,Common,0.07,no,8.5,8.5,9,8.5,0.07,Ebay
+4,2022-05-09 16.18.56.jpg,9872.png,swsh3-97,Passimian,Common,0.06,no,8,9.5,9.5,8.5,0.06,Ebay
+5,2022-05-09 16.19.04.jpg,12150.png,swsh3-151,Fletchling,Common,0.06,no,9,9.5,8.5,9.5,0.06,Ebay
+6,2022-05-09 16.19.22.jpg,12014.png,swsh3-146,Staravia,Uncommon,0.07,no,8.5,8,9.5,9,0.07,Ebay
+7,2022-05-09 16.19.30.jpg,10794.png,swsh3-109,Zweilous,Uncommon,0.06,no,8.5,8.5,8.5,8.5,0.06,Ebay
+8,2022-05-09 16.19.39.jpg,9043.png,swsh3-87,Pupitar,Uncommon,0.07,no,8.5,9.5,8.5,9.5,0.07,Ebay
+9,2022-05-09 16.20.03.jpg,13825.png,swsh7-141,Aroma Lady,Uncommon,0.06,reverse.holo,9,9.5,9.5,9,0.06,Ebay
+10,2022-05-09 16.20.11.jpg,13694.png,swsh7-10,Lilligant,Rare,0.07,no,9.5,8.5,8.5,8.5,0.07,Ebay
+11,2022-05-09 16.20.27.jpg,13839.png,swsh7-155,Ribbon Badge,Uncommon,0.04,no,8,9.5,9.5,8.5,0.04,Ebay
+12,2022-05-09 16.20.35.jpg,13798.png,swsh7-114,Zweilous,Uncommon,0.06,no,8.5,9.5,9.5,8.5,0.06,Ebay
+13,2022-05-09 16.20.42.jpg,13848.png,swsh7-164,Zinnia's Resolve,Uncommon,0.07,no,8,9.5,8.5,9,0.07,Ebay
+14,2022-05-09 16.20.51.jpg,13738.png,swsh7-54,Mareep,Common,0.04,no,9.5,8,9,9,0.04,Ebay
+15,2022-05-09 16.20.58.jpg,13745.png,swsh7-61,Drowzee,Common,0.04,no,9,8,9,9,0.04,Ebay
+16,2022-05-09 16.21.06.jpg,13782.png,swsh7-98,Scraggy,Common,0.04,no,9,9,9,8,0.04,Ebay
+17,2022-05-09 16.21.13.jpg,13721.png,swsh7-37,Feebas,Common,0.04,no,8,9.5,9,8,0.04,Ebay
+18,2022-05-09 16.21.20.jpg,13765.png,swsh7-81,Hitmonchan,Common,0.04,no,8.5,8.5,9,9.5,0.04,Ebay
+19,2022-05-09 16.21.28.jpg,13783.png,swsh7-99,Scrafty,Uncommon,0.04,reverse.holo,8.5,9,9,8.5,0.04,Ebay
+20,2022-05-09 16.21.44.jpg,13696.png,swsh7-12,Crustle,Uncommon,0.04,no,8.5,9,9,9,0.04,Ebay
+21,2022-05-09 16.21.52.jpg,13846.png,swsh7-162,Switching Cups,Uncommon,0.06,no,8.5,9.5,8.5,9.5,0.06,Ebay
+22,2022-05-09 16.22.01.jpg,13831.png,swsh7-147,Elemental Badge,Uncommon,0.07,no,9,9,9,9.5,0.07,Ebay
+23,2022-05-09 16.22.08.jpg,13809.png,swsh7-125,Eevee,Common,0.06,no,8.5,8.5,8.5,8,0.06,Ebay
+24,2022-05-09 16.22.16.jpg,13762.png,swsh7-78,Cutiefly,Common,0.04,no,8.5,8.5,8.5,9.5,0.04,Ebay
+25,2022-05-09 16.22.23.jpg,13733.png,swsh7-49,Pikachu,Common,0.08,no,8.5,9.5,8.5,9.5,0.08,Ebay
+26,2022-05-09 16.22.30.jpg,13701.png,swsh7-17,Applin,Common,0.04,no,9,8,9,8.5,0.04,Ebay
+27,2022-05-09 16.22.38.jpg,13817.png,swsh7-133,Lillipup,Common,0.04,no,8,9,9,8.5,0.04,Ebay
+28,2022-05-09 16.22.46.jpg,13849.png,swsh7-165,Treasure Energy,Uncommon,0.06,reverse.holo,9.5,8.5,8,9,0.06,Ebay
+29,2022-05-09 16.23.02.jpg,13826.png,swsh7-142,Boost Shake,Uncommon,0.09,no,8.5,8.5,9,8.5,0.09,Ebay
+30,2022-05-09 16.23.11.jpg,13763.png,swsh7-79,Ribombee,Uncommon,0.04,no,8.5,9.5,9.5,9,0.04,Ebay
+31,2022-05-09 16.23.18.jpg,13729.png,swsh7-45,Avalugg,Uncommon,0.04,no,8.5,9,8,8.5,0.04,Ebay
+32,2022-05-09 16.23.34.jpg,13772.png,swsh7-88,Gigalith,Rare,0.09,reverse.holo,9,9,8,8,0.09,Ebay
+33,2022-05-09 16.23.50.jpg,13838.png,swsh7-154,Rescue Carrier,Uncommon,0.14,no,9,8,9,9,0.14,Ebay
+34,2022-05-09 16.23.58.jpg,13828.png,swsh7-144,Crystal Cave,Uncommon,0.08,no,9,9.5,8.5,8.5,0.08,Ebay
+35,2022-05-09 16.24.13.jpg,13849.png,swsh7-165,Treasure Energy,Uncommon,0.06,no,9,8.5,9,9.5,0.06,Ebay
+36,2022-05-09 16.24.20.jpg,13823.png,swsh7-139,Fletchinder,Uncommon,0.04,no,9,9,8,9,0.04,Ebay
+37,2022-05-09 16.24.28.jpg,13751.png,swsh7-67,Sableye,Common,0.04,no,8.5,9,8.5,8,0.04,Ebay
+38,2022-05-09 16.24.36.jpg,13788.png,swsh7-104,Nickit,Common,0.04,no,8.5,8.5,9,9,0.04,Ebay
+39,2022-05-09 16.24.44.jpg,13728.png,swsh7-44,Bergmite,Common,0.04,no,8.5,9,9,8.5,0.04,Ebay
+40,2022-05-09 16.24.51.jpg,13741.png,swsh7-57,Emolga,Common,0.04,no,8.5,9,9.5,8.5,0.04,Ebay
+41,2022-05-09 16.24.59.jpg,13791.png,swsh7-107,Bagon,Common,0.04,no,8.5,9.5,8,9.5,0.04,Ebay
+42,2022-05-09 16.25.07.jpg,13760.png,swsh7-76,Pumpkaboo,Common,0.04,no,8.5,9,8.5,8.5,0.04,Ebay
+43,2022-05-09 16.25.13.jpg,13710.png,swsh7-26,Tentacool,Common,0.04,no,8.5,8,9.5,8.5,0.04,Ebay
+44,2022-05-09 16.25.20.jpg,13817.png,swsh7-133,Lillipup,Common,0.04,no,9,8.5,8.5,9,0.04,Ebay
+45,2022-05-09 16.25.27.jpg,13737.png,swsh7-53,Lanturn,Uncommon,0.04,no,8.5,9,8.5,9,0.04,Ebay
+46,2022-05-09 16.25.35.jpg,13701.png,swsh7-17,Applin,Common,0.04,no,9.5,8.5,9,8,0.04,Ebay
+47,2022-05-09 16.25.42.jpg,13762.png,swsh7-78,Cutiefly,Common,0.04,no,8,8.5,9,8,0.04,Ebay
+48,2022-05-09 16.25.49.jpg,13696.png,swsh7-12,Crustle,Uncommon,0.04,no,9,8.5,8.5,8.5,0.04,Ebay
+49,2022-05-09 16.25.57.jpg,13721.png,swsh7-37,Feebas,Common,0.04,no,9,8,8.5,9,0.04,Ebay
+50,2022-05-09 16.26.04.jpg,13699.png,swsh7-15,Gossifleur,Common,0.04,no,9,8.5,8.5,8,0.04,Ebay
+51,2022-05-09 16.26.11.jpg,13752.png,swsh7-68,Woobat,Common,0.04,no,8.5,9,9,9,0.04,Ebay
+52,2022-05-09 16.26.19.jpg,13741.png,swsh7-57,Emolga,Common,0.04,no,9,9,8.5,8,0.04,Ebay
+53,2022-05-09 16.26.26.jpg,13716.png,swsh7-32,Lotad,Common,0.04,no,9.5,8,9,9,0.04,Ebay
+54,2022-05-09 16.26.32.jpg,13845.png,swsh7-161,Stormy Mountains,Uncommon,0.08,no,8.5,9,8,9,0.08,Ebay
+55,2022-05-09 16.26.39.jpg,13830.png,swsh7-146,Dream Ball,Uncommon,0.06,no,9.5,8.5,8.5,8,0.06,Ebay
+56,2022-05-09 16.26.46.jpg,13707.png,swsh7-23,Pyroar,Uncommon,0.04,no,9,9,9.5,9,0.04,Ebay
+57,2022-05-09 16.27.01.jpg,13733.png,swsh7-49,Pikachu,Common,0.08,no,8.5,8.5,9,9,0.08,Ebay
+58,2022-05-09 16.27.08.jpg,13689.png,swsh7-5,Seedot,Common,0.04,no,8.5,9,9,8.5,0.04,Ebay
+59,2022-05-10 13.57.45.jpg,13347.png,swsh5-105,Honedge,Common,0.04,no,9,8,9,8.5,0.04,Ebay
+60,2022-05-10 13.57.52.jpg,13301.png,swsh5-59,Chimecho,Common,0.04,no,9.5,8,8,9,0.04,Ebay
+61,2022-05-10 13.57.59.jpg,13291.png,swsh5-49,Pachirisu,Common,0.04,no,8,9,9.5,9.5,0.04,Ebay
+62,2022-05-10 13.58.08.jpg,13249.png,swsh5-7,Cherubi,Common,0.04,no,9.5,9,9.5,8,0.04,Ebay
+63,2022-05-10 13.58.16.jpg,13342.png,swsh5-100,Mawile,Common,0.04,no,9.5,9,8.5,8.5,0.04,Ebay
+64,2022-05-10 13.58.25.jpg,13316.png,swsh5-74,Gurdurr,Uncommon,0.06,reverse.holo,9,9.5,9,9.5,0.06,Ebay
+65,2022-05-10 13.58.32.jpg,13350.png,swsh5-108,Aegislash,Rare,0.12,no,9,9,9,9,0.12,Ebay
+66,2022-05-10 13.58.47.jpg,13382.png,swsh5-140,Rapid Strike Energy,Uncommon,0.13,no,8.5,8.5,8.5,9,0.13,Ebay
+67,2022-05-10 13.58.55.jpg,13365.png,swsh5-123,Cheryl,Uncommon,0.09,no,9.5,9,8.5,9,0.09,Ebay
+68,2022-05-10 13.59.02.jpg,13348.png,swsh5-106,Doublade,Uncommon,0.06,no,9,8.5,9,9,0.06,Ebay
+69,2022-05-10 13.59.13.jpg,4843.png,swsh4-45,Voltorb,Common,0.04,no,8.5,8.5,9,9.5,0.04,Ebay
+70,2022-05-10 13.59.22.jpg,9399.png,swsh4-94,Rockruff,Common,0.04,no,9,8.5,8.5,9,0.04,Ebay
+71,2022-05-10 13.59.28.jpg,11577.png,swsh4-133,Taillow,Common,0.04,no,8.5,9,8,9,0.04,Ebay
+72,2022-05-10 13.59.36.jpg,8810.png,swsh4-87,Donphan,Rare,0.18,no,8.5,8.5,9,9.5,0.18,Ebay
+73,2022-05-10 13.59.49.jpg,11975.png,swsh4-148,Beauty,Uncommon,0.06,no,8,9.5,8,8,0.06,Ebay
+74,2022-05-10 13.59.56.jpg,8678.png,swsh4-85,Shuckle,Uncommon,0.04,no,8.5,9.5,8.5,8.5,0.04,Ebay
+75,2022-05-10 14.00.03.jpg,1252.png,swsh4-11,Nuzleaf,Uncommon,0.04,no,9,8.5,9.5,9.5,0.04,Ebay
+76,2022-05-10 14.00.19.jpg,14302.png,swsh8-233,Elesa's Sparkle,Uncommon,0.1,no,8.5,8,8,9.5,0.1,Ebay
+77,2022-05-10 14.00.32.jpg,14150.png,swsh8-81,Drednaw,Uncommon,0.07,no,8,9,9,9,0.07,Ebay
+78,2022-05-10 14.00.39.jpg,14265.png,swsh8-196,Sliggoo,Uncommon,0.04,no,8.5,8,8.5,9,0.04,Ebay
+79,2022-05-10 14.00.47.jpg,14074.png,swsh8-5,Breloom,Uncommon,0.06,no,8.5,8.5,8.5,8,0.06,Ebay
+80,2022-05-10 14.00.54.jpg,14299.png,swsh8-230,Cross Switcher,Uncommon,0.11,no,9,8.5,8.5,8.5,0.11,Ebay
+81,2022-05-10 14.01.01.jpg,14221.png,swsh8-152,Clobbopus,Common,0.04,no,8.5,9,8,8.5,0.04,Ebay
+82,2022-05-10 14.01.10.jpg,14164.png,swsh8-95,Tynamo,Common,0.04,no,9.5,8,9,8,0.04,Ebay
+83,2022-05-10 14.01.18.jpg,14153.png,swsh8-84,Snom,Common,0.04,reverse.holo,8.5,9.5,8.5,8,0.04,Ebay
+84,2022-05-10 14.01.25.jpg,14218.png,swsh8-149,Pancham,Common,0.04,no,9.5,9,8,8,0.04,Ebay
+85,2022-05-10 14.01.33.jpg,14083.png,swsh8-14,Accelgor,Rare,0.1,reverse.holo,9,8.5,8,9,0.1,Ebay
+86,2022-05-10 14.01.41.jpg,14248.png,swsh8-179,Morpeko,Common,0.06,no,8.5,8.5,9.5,8,0.06,Ebay
+87,2022-05-10 14.01.48.jpg,14278.png,swsh8-209,Smeargle,Common,0.04,no,8,9.5,9.5,8.5,0.04,Ebay
+88,2022-05-10 14.01.56.jpg,14129.png,swsh8-60,Qwilfish,Common,0.04,no,9,8.5,8.5,8.5,0.04,Ebay
+89,2022-05-10 14.02.02.jpg,14103.png,swsh8-34,Slugma,Common,0.07,reverse.holo,8.5,9,8,8.5,0.07,Ebay
+90,2022-05-10 14.02.13.jpg,14187.png,swsh8-118,Galarian Cursola,Rare,0.12,no,8.5,8.5,9,8.5,0.12,Ebay
+91,2022-05-10 14.02.21.jpg,14143.png,swsh8-74,Clauncher,Common,0.04,no,9.5,9.5,9,9.5,0.04,Ebay
+92,2022-05-10 14.02.28.jpg,14202.png,swsh8-133,Mankey,Common,0.04,no,9,9,8.5,9.5,0.04,Ebay
+93,2022-05-10 14.02.36.jpg,14228.png,swsh8-159,Galarian Zigzagoon,Common,0.06,no,8.5,8.5,8,9,0.06,Ebay
+94,2022-05-10 14.02.45.jpg,14271.png,swsh8-202,Chansey,Common,0.04,no,9,9.5,9.5,9,0.04,Ebay
+95,2022-05-10 14.02.52.jpg,14097.png,swsh8-28,Vulpix,Common,0.04,no,8,8.5,9,9,0.04,Ebay
+96,2022-05-10 14.02.59.jpg,14305.png,swsh8-236,Power Tablet,Uncommon,0.14,no,8.5,8.5,9,8,0.14,Ebay
+97,2022-05-10 14.03.06.jpg,14296.png,swsh8-227,Chili & Cilan & Cress,Uncommon,0.06,no,8,8,8,9,0.06,Ebay
+98,2022-05-10 14.03.14.jpg,14307.png,swsh8-238,Schoolboy,Uncommon,0.04,no,8.5,8.5,9,8.5,0.04,Ebay
+99,2022-05-10 14.03.39.jpg,14168.png,swsh8-99,Heliolisk,Uncommon,0.07,no,9,9,9,8,0.07,Ebay
+100,2022-05-10 14.03.48.jpg,14228.png,swsh8-159,Galarian Zigzagoon,Common,0.06,no,8.5,9,9.5,9,0.06,Ebay
+101,2022-05-10 14.03.55.jpg,14202.png,swsh8-133,Mankey,Common,0.04,no,9.5,9.5,8,9.5,0.04,Ebay
+102,2022-05-10 14.04.02.jpg,14143.png,swsh8-74,Clauncher,Common,0.04,no,8.5,8.5,8.5,8.5,0.04,Ebay
+103,2022-05-10 14.04.10.jpg,14219.png,swsh8-150,Stufful,Common,0.04,no,9,8,9,8.5,0.04,Ebay
+104,2022-05-10 14.04.17.jpg,14079.png,swsh8-10,Swadloon,Uncommon,0.07,no,9.5,8.5,9,9,0.07,Ebay
+105,2022-05-10 14.04.24.jpg,14298.png,swsh8-229,Cram-o-matic,Uncommon,0.21,no,8.5,9,8,8.5,0.21,Ebay
+106,2022-05-10 14.04.31.jpg,14311.png,swsh8-242,Skaters' Park,Uncommon,0.06,no,9,9,8.5,8.5,0.06,Ebay
+107,2022-05-10 14.04.40.jpg,14313.png,swsh8-244,Fusion Strike Energy,Uncommon,0.1,no,8,8.5,9,9.5,0.1,Ebay
+108,2022-05-10 14.04.55.jpg,14302.png,swsh8-233,Elesa's Sparkle,Uncommon,0.1,no,8.5,8,9.5,9,0.1,Ebay
+109,2022-05-10 14.05.02.jpg,14192.png,swsh8-123,Sigilyph,Common,0.04,no,8.5,9.5,8.5,8,0.04,Ebay
+110,2022-05-10 14.05.19.jpg,14154.png,swsh8-85,Frosmoth,Uncommon,0.06,no,8.5,9,9.5,8.5,0.06,Ebay
+111,2022-05-10 14.05.26.jpg,14099.png,swsh8-30,Ninetales,Uncommon,0.09,no,8.5,8.5,9,8,0.09,Ebay
+112,2022-05-10 14.05.33.jpg,14256.png,swsh8-187,Togedemaru,Uncommon,0.04,no,8.5,9.5,9,9.5,0.04,Ebay
+113,2022-05-10 14.05.41.jpg,14160.png,swsh8-91,Shinx,Common,0.04,no,8.5,9.5,9.5,8.5,0.04,Ebay
+114,2022-05-10 14.05.50.jpg,14082.png,swsh8-13,Shelmet,Common,0.04,no,8.5,8,9.5,9,0.04,Ebay
+115,2022-05-10 14.05.57.jpg,14216.png,swsh8-147,Drilbur,Common,0.04,no,8.5,9,8.5,9,0.04,Ebay
+116,2022-05-10 14.06.05.jpg,14283.png,swsh8-214,Bunnelby,Common,0.04,no,9.5,9.5,8.5,9,0.04,Ebay
+117,2022-05-10 14.06.12.jpg,14255.png,swsh8-186,Klefki,Common,0.04,no,8.5,8,9.5,9.5,0.04,Ebay
+118,2022-05-10 14.06.36.jpg,5648.png,xy10-54a,Zygarde-EX,Rare Ultra,10.81,full.art.holo,8.5,8.5,9.5,8.5,10.81,Ebay
+119,2022-05-10 14.06.45.jpg,13792.png,swsh7-108,Shelgon,Uncommon,0.04,no,9,9.5,8.5,8,0.04,Ebay
+120,2022-05-10 14.06.54.jpg,13769.png,swsh7-85,Hippowdon,Uncommon,0.04,reverse.holo,8.5,9.5,9,9.5,0.04,Ebay
+121,2022-05-10 14.07.03.jpg,13744.png,swsh7-60,Regieleki,Rare Holo,0.33,reverse.holo,8.5,9,9,8.5,0.33,Ebay
+122,2022-05-10 14.07.12.jpg,13726.png,swsh7-42,Tympole,Common,0.04,no,9,8.5,8.5,8.5,0.04,Ebay
+123,2022-05-10 14.07.19.jpg,13752.png,swsh7-68,Woobat,Common,0.04,no,9,9,9,9.5,0.04,Ebay
+124,2022-05-10 14.07.28.jpg,13791.png,swsh7-107,Bagon,Common,0.04,no,9,8,9,8.5,0.04,Ebay
+125,2022-05-10 14.07.35.jpg,13843.png,swsh7-159,Snow Leaf Badge,Uncommon,0.04,no,9.5,9.5,8.5,8.5,0.04,Ebay
+126,2022-05-10 14.07.43.jpg,13783.png,swsh7-99,Scrafty,Uncommon,0.04,no,9,8.5,8.5,8.5,0.04,Ebay
+127,2022-05-10 14.07.51.jpg,13834.png,swsh7-150,Lucky Ice Pop,Uncommon,0.06,no,9,9,8,9.5,0.06,Ebay
+128,2022-05-10 14.08.08.jpg,13809.png,swsh7-125,Eevee,Common,0.06,no,8,9.5,9.5,9,0.06,Ebay
+129,2022-05-10 14.08.16.jpg,13755.png,swsh7-71,Flabébé,Common,0.04,no,8,9.5,8,9,0.04,Ebay
+130,2022-05-10 14.08.22.jpg,13848.png,swsh7-164,Zinnia's Resolve,Uncommon,0.07,no,8.5,9.5,8.5,8,0.07,Ebay
+131,2022-05-10 14.08.30.jpg,13830.png,swsh7-146,Dream Ball,Uncommon,0.06,no,8.5,8,9.5,9,0.06,Ebay
+132,2022-05-10 14.08.37.jpg,13797.png,swsh7-113,Deino,Common,0.04,no,8.5,8.5,8.5,9,0.04,Ebay
+133,2022-05-10 14.08.53.jpg,13817.png,swsh7-133,Lillipup,Common,0.04,no,8,8,9,9,0.04,Ebay
+134,2022-05-10 14.09.00.jpg,13791.png,swsh7-107,Bagon,Common,0.04,no,9,8,9,8.5,0.04,Ebay
+135,2022-05-10 14.09.09.jpg,13706.png,swsh7-22,Litleo,Common,0.04,no,9,9,9,8.5,0.04,Ebay
+136,2022-05-10 14.09.17.jpg,13843.png,swsh7-159,Snow Leaf Badge,Uncommon,0.04,reverse.holo,9,9,9.5,9.5,0.04,Ebay
+137,2022-05-10 14.09.25.jpg,13720.png,swsh7-36,Sharpedo,Rare,0.08,no,9,8,8,9,0.08,Ebay
+138,2022-05-10 14.09.42.jpg,13823.png,swsh7-139,Fletchinder,Uncommon,0.04,no,9,8.5,9.5,9.5,0.04,Ebay
+139,2022-05-10 14.09.49.jpg,13737.png,swsh7-53,Lanturn,Uncommon,0.04,no,9,8.5,8.5,8.5,0.04,Ebay
+140,2022-05-10 14.09.56.jpg,13844.png,swsh7-160,Spirit Mask,Uncommon,0.06,no,8,9.5,9,8,0.06,Ebay
+141,2022-05-10 14.10.04.jpg,13783.png,swsh7-99,Scrafty,Uncommon,0.04,reverse.holo,8,8.5,8,9,0.04,Ebay
+142,2022-05-10 14.10.11.jpg,13809.png,swsh7-125,Eevee,Common,0.06,no,8,8,9,8,0.06,Ebay
+143,2022-05-10 14.10.19.jpg,13752.png,swsh7-68,Woobat,Common,0.04,no,9,8.5,9.5,9.5,0.04,Ebay
+144,2022-05-10 14.10.26.jpg,13689.png,swsh7-5,Seedot,Common,0.04,no,9.5,9,9,9,0.04,Ebay
+145,2022-05-10 14.10.34.jpg,13816.png,swsh7-132,Swablu,Common,0.04,no,9,8,9,8.5,0.04,Ebay
+146,2022-05-10 14.10.40.jpg,13708.png,swsh7-24,Psyduck,Common,0.37,no,9,9,8.5,9,0.37,Ebay
+147,2022-05-10 14.10.48.jpg,13717.png,swsh7-33,Lombre,Uncommon,0.04,no,8.5,8,8.5,8,0.04,Ebay
+148,2022-05-10 14.10.54.jpg,13814.png,swsh7-130,Vigoroth,Uncommon,0.04,no,8,8,9,9,0.04,Ebay
+149,2022-05-10 14.11.00.jpg,13746.png,swsh7-62,Hypno,Uncommon,0.04,no,9.5,9.5,9.5,8,0.04,Ebay
+150,2022-05-10 14.11.14.jpg,13831.png,swsh7-147,Elemental Badge,Uncommon,0.07,reverse.holo,8,9,9,9,0.07,Ebay
+151,2022-05-10 14.11.21.jpg,13805.png,swsh7-121,Appletun,Rare,0.06,reverse.holo,9,8,9.5,9,0.06,Ebay
+152,2022-05-10 14.11.29.jpg,13790.png,swsh7-106,Altaria,Rare,0.1,no,9,8,9,9.5,0.1,Ebay
+153,2022-05-10 14.11.42.jpg,13717.png,swsh7-33,Lombre,Uncommon,0.04,no,9,8.5,8,9.5,0.04,Ebay
+154,2022-05-10 14.11.49.jpg,13832.png,swsh7-148,Full Face Guard,Uncommon,0.06,no,9,8.5,8,8,0.06,Ebay
+155,2022-05-10 14.11.57.jpg,13746.png,swsh7-62,Hypno,Uncommon,0.04,no,8.5,9,8.5,9,0.04,Ebay
+156,2022-05-10 14.12.04.jpg,13750.png,swsh7-66,Wobbuffet,Common,0.04,no,9.5,8.5,9.5,9,0.04,Ebay
+157,2022-05-10 14.12.11.jpg,13738.png,swsh7-54,Mareep,Common,0.04,no,9.5,9,9,8.5,0.04,Ebay
+158,2022-05-10 14.12.20.jpg,13722.png,swsh7-38,Milotic,Rare,0.12,reverse.holo,9.5,9.5,8,9.5,0.12,Ebay
+159,2022-05-10 14.12.28.jpg,13797.png,swsh7-113,Deino,Common,0.04,no,9,9.5,9.5,9,0.04,Ebay
+160,2022-05-10 14.12.36.jpg,13686.png,swsh7-2,Hoppip,Common,0.04,no,9,9,8.5,9,0.04,Ebay
+161,2022-05-10 14.12.43.jpg,13710.png,swsh7-26,Tentacool,Common,0.04,no,8.5,8,9.5,9.5,0.04,Ebay
+162,2022-05-10 14.12.49.jpg,13811.png,swsh7-127,Ursaring,Uncommon,0.04,no,8.5,8.5,9,8,0.04,Ebay
+163,2022-05-10 14.12.56.jpg,13842.png,swsh7-158,Single Strike Scroll of the Fanged Dragon,Uncommon,0.04,no,8,9,9,9,0.04,Ebay
+164,2022-05-10 14.13.03.jpg,13707.png,swsh7-23,Pyroar,Uncommon,0.04,no,9,9.5,9.5,9,0.04,Ebay
+165,2022-05-10 14.13.21.jpg,13721.png,swsh7-37,Feebas,Common,0.04,no,9,9.5,8,8,0.04,Ebay
+166,2022-05-10 14.13.28.jpg,13686.png,swsh7-2,Hoppip,Common,0.04,no,8.5,8.5,8.5,9,0.04,Ebay
+167,2022-05-10 14.13.35.jpg,13765.png,swsh7-81,Hitmonchan,Common,0.04,no,9,8.5,8.5,9,0.04,Ebay
+168,2022-05-10 14.13.43.jpg,13822.png,swsh7-138,Fletchling,Common,0.04,no,9,9.5,8,8,0.04,Ebay
+169,2022-05-10 14.13.50.jpg,13710.png,swsh7-26,Tentacool,Common,0.04,no,8.5,8.5,9.5,9,0.04,Ebay
+170,2022-05-10 14.13.57.jpg,14205.png,swsh8-136,Graveler,Uncommon,0.07,reverse.holo,9,8.5,8.5,8.5,0.07,Ebay
+171,2022-05-10 14.14.05.jpg,14084.png,swsh8-15,Virizion,Rare,0.13,no,9.5,8,8.5,9,0.13,Ebay
+172,2022-05-10 14.14.11.jpg,14278.png,swsh8-209,Smeargle,Common,0.04,no,9,9.5,9,9,0.04,Ebay
+173,2022-05-10 14.14.19.jpg,14248.png,swsh8-179,Morpeko,Common,0.06,no,8.5,9,8,9,0.06,Ebay
+174,2022-05-10 14.14.25.jpg,13810.png,swsh7-126,Teddiursa,Common,0.04,no,9.5,8,9.5,9.5,0.04,Ebay
+175,2022-05-10 14.14.32.jpg,13781.png,swsh7-97,Shiftry,Rare,0.09,no,8.5,9.5,9.5,9,0.09,Ebay
+176,2022-05-10 14.14.38.jpg,14221.png,swsh8-152,Clobbopus,Common,0.04,no,9,9,8.5,8,0.04,Ebay
+177,2022-05-10 14.14.45.jpg,14281.png,swsh8-212,Buneary,Common,0.04,no,8.5,9.5,8,9,0.04,Ebay
+178,2022-05-10 14.14.52.jpg,14124.png,swsh8-55,Totodile,Common,0.04,no,8.5,8,8.5,8.5,0.04,Ebay
+179,2022-05-10 14.15.00.jpg,14175.png,swsh8-106,Toxel,Common,0.04,no,9,9,8,8.5,0.04,Ebay
+180,2022-05-10 14.15.07.jpg,14250.png,swsh8-181,Galarian Perrserker,Uncommon,0.07,no,8.5,9.5,9,8.5,0.07,Ebay
+181,2022-05-10 14.15.15.jpg,14101.png,swsh8-32,Growlithe,Common,0.04,no,8,8.5,9,8.5,0.04,Ebay
+182,2022-05-10 14.15.22.jpg,14156.png,swsh8-87,Voltorb,Common,0.04,no,9,8.5,9,9.5,0.04,Ebay
+183,2022-05-10 14.15.29.jpg,14224.png,swsh8-155,Falinks,Common,0.04,reverse.holo,8.5,9.5,8,8.5,0.04,Ebay
+184,2022-05-10 14.15.37.jpg,14166.png,swsh8-97,Eelektross,Rare,0.14,reverse.holo,9,9,9,8.5,0.14,Ebay
+185,2022-05-10 14.15.46.jpg,9299.png,swsh4-93,Zygarde,Rare Holo,0.28,reverse.holo,9,8.5,9,8.5,0.28,Ebay
+186,2022-05-10 14.15.53.jpg,14170.png,swsh8-101,Vikavolt,Rare,0.12,reverse.holo,9,9.5,9.5,9,0.12,Ebay
+187,2022-05-10 14.16.00.jpg,14224.png,swsh8-155,Falinks,Common,0.04,reverse.holo,8.5,8,8.5,8,0.04,Ebay
+188,2022-05-10 14.16.08.jpg,14089.png,swsh8-20,Araquanid,Rare,0.16,reverse.holo,9.5,9,9,8,0.16,Ebay
+189,2022-05-10 14.16.16.jpg,13826.png,swsh7-142,Boost Shake,Uncommon,0.09,reverse.holo,8,8.5,8.5,9.5,0.09,Ebay
+190,2022-05-10 14.16.30.jpg,13818.png,swsh7-134,Herdier,Uncommon,0.04,no,9,8.5,9,9,0.04,Ebay
+191,2022-05-10 14.16.38.jpg,13844.png,swsh7-160,Spirit Mask,Uncommon,0.06,no,9,8.5,8.5,8.5,0.06,Ebay
+192,2022-05-10 14.16.46.jpg,13773.png,swsh7-89,Palpitoad,Uncommon,0.04,no,9,9,8,8.5,0.04,Ebay
+193,2022-05-10 14.16.53.jpg,13782.png,swsh7-98,Scraggy,Common,0.04,no,8.5,9.5,9.5,8,0.04,Ebay
+194,2022-05-10 14.16.59.jpg,13768.png,swsh7-84,Hippopotas,Common,0.04,no,8.5,8,8,9,0.04,Ebay
+195,2022-05-10 14.17.07.jpg,13726.png,swsh7-42,Tympole,Common,0.04,no,9.5,9.5,9,9,0.04,Ebay
+196,2022-05-10 14.17.14.jpg,13706.png,swsh7-22,Litleo,Common,0.04,no,8.5,8,9,8.5,0.04,Ebay
+197,2022-05-10 14.17.21.jpg,13809.png,swsh7-125,Eevee,Common,0.06,no,8.5,8,8.5,9,0.06,Ebay
+198,2022-05-10 14.17.36.jpg,13731.png,swsh7-47,Eiscue,Uncommon,0.04,no,8.5,8,9.5,8,0.04,Ebay
+199,2022-05-10 14.17.43.jpg,13832.png,swsh7-148,Full Face Guard,Uncommon,0.06,no,9.5,8,9.5,8.5,0.06,Ebay
+200,2022-05-10 14.17.52.jpg,13689.png,swsh7-5,Seedot,Common,0.04,no,9.5,9,8,9,0.04,Ebay
+201,2022-05-10 14.18.00.jpg,13706.png,swsh7-22,Litleo,Common,0.04,no,9,9,8,8,0.04,Ebay
+202,2022-05-10 14.18.07.jpg,13760.png,swsh7-76,Pumpkaboo,Common,0.04,reverse.holo,8.5,8.5,9.5,9,0.04,Ebay
+203,2022-05-10 14.18.14.jpg,13690.png,swsh7-6,Tropius,Rare,0.07,no,8.5,9,8.5,8.5,0.07,Ebay
+204,2022-05-10 14.18.21.jpg,13685.png,swsh7-1,Pinsir,Rare,0.07,no,8.5,8.5,9,9.5,0.07,Ebay
+205,2022-05-10 14.18.36.jpg,13811.png,swsh7-127,Ursaring,Uncommon,0.04,no,8.5,8,8.5,8,0.04,Ebay
+206,2022-05-10 14.18.43.jpg,13828.png,swsh7-144,Crystal Cave,Uncommon,0.08,no,9,8,8,9,0.08,Ebay
+207,2022-05-10 14.18.50.jpg,13847.png,swsh7-163,Toy Catcher,Uncommon,0.04,no,9,9,8.5,8.5,0.04,Ebay
+208,2022-05-10 14.18.57.jpg,13716.png,swsh7-32,Lotad,Common,0.04,no,9,8.5,9.5,9,0.04,Ebay
+209,2022-05-10 14.19.04.jpg,13810.png,swsh7-126,Teddiursa,Common,0.04,no,9,9,9,8.5,0.04,Ebay
+210,2022-05-10 14.19.11.jpg,13727.png,swsh7-43,Cryogonal,Common,0.06,no,8.5,9.5,9,9.5,0.06,Ebay
+211,2022-05-10 14.19.17.jpg,13788.png,swsh7-104,Nickit,Common,0.04,no,9,9,8.5,9.5,0.04,Ebay
+212,2022-05-10 14.19.24.jpg,13695.png,swsh7-11,Dwebble,Common,0.04,no,8,8.5,9,9.5,0.04,Ebay
+213,2022-05-10 14.19.38.jpg,13756.png,swsh7-72,Floette,Uncommon,0.04,no,8.5,9.5,9,9,0.04,Ebay
+214,2022-05-10 14.19.46.jpg,13811.png,swsh7-127,Ursaring,Uncommon,0.04,reverse.holo,9,8,8.5,9,0.04,Ebay
+215,2022-05-10 14.19.53.jpg,13789.png,swsh7-105,Thievul,Rare,0.08,no,9,8.5,8.5,9.5,0.08,Ebay
+216,2022-05-10 14.19.59.jpg,13771.png,swsh7-87,Boldore,Uncommon,0.04,no,8.5,8.5,8.5,8.5,0.04,Ebay
+217,2022-05-10 14.20.06.jpg,13825.png,swsh7-141,Aroma Lady,Uncommon,0.06,no,9,8,9.5,8.5,0.06,Ebay
+218,2022-05-10 14.20.16.jpg,13693.png,swsh7-9,Petilil,Common,0.04,no,9,9,9,9,0.04,Ebay
+219,2022-05-10 14.20.23.jpg,13727.png,swsh7-43,Cryogonal,Common,0.06,no,9.5,9,8.5,8.5,0.06,Ebay
+220,2022-05-10 14.20.29.jpg,13786.png,swsh7-102,Zorua,Common,0.09,no,9,8.5,8.5,8.5,0.09,Ebay
+221,2022-05-10 14.20.37.jpg,13686.png,swsh7-2,Hoppip,Common,0.04,no,8,9,9.5,8.5,0.04,Ebay
+222,2022-05-10 14.20.45.jpg,13832.png,swsh7-148,Full Face Guard,Uncommon,0.06,no,9,8.5,8.5,8,0.06,Ebay
+223,2022-05-10 14.20.52.jpg,13717.png,swsh7-33,Lombre,Uncommon,0.04,no,8,8.5,8.5,9,0.04,Ebay
+224,2022-05-10 14.21.14.jpg,13736.png,swsh7-52,Chinchou,Common,0.04,no,9.5,9.5,8.5,9.5,0.04,Ebay
+225,2022-05-10 14.21.20.jpg,13706.png,swsh7-22,Litleo,Common,0.04,no,8.5,9.5,8.5,8.5,0.04,Ebay
+226,2022-05-10 14.21.27.jpg,13816.png,swsh7-132,Swablu,Common,0.04,no,9.5,8.5,9,9,0.04,Ebay
+227,2022-05-10 14.21.40.jpg,13814.png,swsh7-130,Vigoroth,Uncommon,0.04,no,8.5,9,9.5,8.5,0.04,Ebay
+228,2022-05-10 14.21.48.jpg,13717.png,swsh7-33,Lombre,Uncommon,0.04,no,8.5,8.5,8.5,9,0.04,Ebay
+229,2022-05-10 14.21.54.jpg,13832.png,swsh7-148,Full Face Guard,Uncommon,0.06,no,8.5,8,8.5,8.5,0.06,Ebay
+230,2022-05-10 14.22.02.jpg,13810.png,swsh7-126,Teddiursa,Common,0.04,no,8.5,9.5,8.5,9,0.04,Ebay
+231,2022-05-10 14.22.09.jpg,13721.png,swsh7-37,Feebas,Common,0.04,no,8.5,8.5,8.5,8.5,0.04,Ebay
+232,2022-05-10 14.22.15.jpg,13686.png,swsh7-2,Hoppip,Common,0.04,no,9,9,9,8.5,0.04,Ebay
+233,2022-05-10 14.22.25.jpg,14252.png,swsh8-183,Excadrill,Uncommon,0.04,reverse.holo,9.5,9.5,8,9,0.04,Ebay
+234,2022-05-10 14.22.34.jpg,14219.png,swsh8-150,Stufful,Common,0.04,no,8,9,9.5,8.5,0.04,Ebay
+235,2022-05-10 14.22.40.jpg,14101.png,swsh8-32,Growlithe,Common,0.04,no,9,8,8.5,9.5,0.04,Ebay
+236,2022-05-10 14.22.47.jpg,14143.png,swsh8-74,Clauncher,Common,0.04,no,8.5,8.5,8,8.5,0.04,Ebay
+237,2022-05-10 14.22.55.jpg,14202.png,swsh8-133,Mankey,Common,0.04,no,9,8,9,9,0.04,Ebay
+238,2022-05-10 14.23.01.jpg,14201.png,swsh8-132,Sandslash,Uncommon,0.07,no,8.5,9.5,8.5,9,0.07,Ebay
+239,2022-05-10 14.23.08.jpg,14228.png,swsh8-159,Galarian Zigzagoon,Common,0.06,no,8.5,9,8.5,9.5,0.06,Ebay
+240,2022-05-10 14.23.15.jpg,14289.png,swsh8-220,Corvisquire,Uncommon,0.06,no,9,9,9,8.5,0.06,Ebay
+241,2022-05-10 14.23.22.jpg,14312.png,swsh8-243,Spongy Gloves,Uncommon,0.04,no,8.5,8.5,9,9,0.04,Ebay
+242,2022-05-10 14.23.35.jpg,14257.png,swsh8-188,Meltan,Common,0.06,no,8.5,9,9.5,8,0.06,Ebay
+243,2022-05-10 14.23.42.jpg,14098.png,swsh8-29,Vulpix,Common,0.06,no,9,8.5,9,8.5,0.06,Ebay
+244,2022-05-10 14.23.48.jpg,14296.png,swsh8-227,Chili & Cilan & Cress,Uncommon,0.06,no,8.5,9,8.5,8,0.06,Ebay
+245,2022-05-10 14.23.55.jpg,14307.png,swsh8-238,Schoolboy,Uncommon,0.04,no,9,9.5,9,9,0.04,Ebay
+246,2022-05-10 14.24.00.jpg,14128.png,swsh8-59,Azumarill,Rare,0.12,no,8.5,9,8.5,9.5,0.12,Ebay
+247,2022-05-10 14.24.15.jpg,14281.png,swsh8-212,Buneary,Common,0.04,no,9,9,8.5,9.5,0.04,Ebay
+248,2022-05-10 14.24.21.jpg,14221.png,swsh8-152,Clobbopus,Common,0.04,no,9.5,9,9,8.5,0.04,Ebay
+249,2022-05-10 14.24.29.jpg,14310.png,swsh8-241,Sidney,Uncommon,0.07,reverse.holo,9.5,8,9,9.5,0.07,Ebay
+250,2022-05-10 14.24.34.jpg,14273.png,swsh8-204,Kangaskhan,Rare,0.13,no,9,9,9,8,0.13,Ebay
+251,2022-05-10 14.24.40.jpg,14175.png,swsh8-106,Toxel,Common,0.04,no,8,8.5,9,8.5,0.04,Ebay
+252,2022-05-10 14.24.46.jpg,14311.png,swsh8-242,Skaters' Park,Uncommon,0.06,no,8,8.5,8,8.5,0.06,Ebay
+253,2022-05-10 14.24.52.jpg,14298.png,swsh8-229,Cram-o-matic,Uncommon,0.21,no,9.5,8.5,8.5,9,0.21,Ebay
+254,2022-05-10 14.24.58.jpg,14079.png,swsh8-10,Swadloon,Uncommon,0.07,no,9,8,9,9,0.07,Ebay
+255,2022-05-10 14.25.15.jpg,14264.png,swsh8-195,Goomy,Common,0.04,no,8,8,9.5,9.5,0.04,Ebay
+256,2022-05-10 14.25.22.jpg,14151.png,swsh8-82,Arrokuda,Common,0.04,no,9.5,9.5,8.5,8.5,0.04,Ebay
+257,2022-05-10 14.25.29.jpg,14184.png,swsh8-115,Snubbull,Common,0.04,no,8.5,9,8.5,9.5,0.04,Ebay
+258,2022-05-10 14.25.35.jpg,14204.png,swsh8-135,Geodude,Common,0.04,no,8,9,9.5,9,0.04,Ebay
+259,2022-05-10 14.25.42.jpg,14224.png,swsh8-155,Falinks,Common,0.04,reverse.holo,8,9,8.5,8.5,0.04,Ebay
+260,2022-05-10 14.25.48.jpg,14117.png,swsh8-48,Centiskorch,Rare,0.12,no,9,8,9,9,0.12,Ebay
+261,2022-05-10 14.26.00.jpg,14203.png,swsh8-134,Primeape,Uncommon,0.04,no,9,9,9.5,8.5,0.04,Ebay
+262,2022-05-10 14.26.07.jpg,14096.png,swsh8-27,Zarude,Uncommon,0.08,no,8.5,8.5,9,8.5,0.08,Ebay
+263,2022-05-10 14.26.13.jpg,14280.png,swsh8-211,Delcatty,Uncommon,0.08,no,9.5,8.5,9.5,9.5,0.08,Ebay
+264,2022-05-10 14.26.29.jpg,14289.png,swsh8-220,Corvisquire,Uncommon,0.06,no,8,9,9,8.5,0.06,Ebay
+265,2022-05-10 14.26.35.jpg,14079.png,swsh8-10,Swadloon,Uncommon,0.07,no,8.5,9.5,9,9,0.07,Ebay
+266,2022-05-10 14.26.42.jpg,14194.png,swsh8-125,Sandygast,Common,0.06,no,9.5,9,8,9,0.06,Ebay
+267,2022-05-10 14.26.49.jpg,14158.png,swsh8-89,Plusle,Common,0.04,no,9,9,9.5,9.5,0.04,Ebay
+268,2022-05-10 14.26.55.jpg,14098.png,swsh8-29,Vulpix,Common,0.06,no,8,9,9,8,0.06,Ebay
+269,2022-05-10 14.27.02.jpg,14257.png,swsh8-188,Meltan,Common,0.06,no,9,8.5,9,9,0.06,Ebay
+270,2022-05-10 14.27.08.jpg,14174.png,swsh8-105,Toxel,Common,0.04,no,8.5,8.5,8.5,8,0.04,Ebay
+271,2022-05-10 14.27.15.jpg,14085.png,swsh8-16,Phantump,Common,0.04,reverse.holo,9,9,8,8.5,0.04,Ebay
+272,2022-05-10 14.27.28.jpg,14302.png,swsh8-233,Elesa's Sparkle,Uncommon,0.1,no,9,9.5,8,9.5,0.1,Ebay
+273,2022-05-10 14.27.34.jpg,14115.png,swsh8-46,Sizzlipede,Common,0.06,no,9,8.5,8.5,9,0.06,Ebay
+274,2022-05-10 14.27.41.jpg,14255.png,swsh8-186,Klefki,Common,0.04,no,9,9.5,8.5,8.5,0.04,Ebay
+275,2022-05-10 14.27.49.jpg,14076.png,swsh8-7,Pansage,Common,0.04,no,9.5,8.5,8,9.5,0.04,Ebay
+276,2022-05-10 14.27.56.jpg,14291.png,swsh8-222,Wooloo,Common,0.07,no,8.5,9,8,9,0.07,Ebay
+277,2022-05-10 14.28.02.jpg,14218.png,swsh8-149,Pancham,Common,0.04,no,9,8.5,8.5,8.5,0.04,Ebay
+278,2022-05-10 14.28.10.jpg,14312.png,swsh8-243,Spongy Gloves,Uncommon,0.04,reverse.holo,8.5,9,8.5,8.5,0.04,Ebay
+279,2022-05-10 14.28.16.jpg,14170.png,swsh8-101,Vikavolt,Rare,0.12,no,8,9,9.5,8,0.12,Ebay
+280,2022-05-10 14.28.23.jpg,14084.png,swsh8-15,Virizion,Rare,0.13,reverse.holo,9,8.5,9,8,0.13,Ebay
+281,2022-05-10 14.28.30.jpg,14166.png,swsh8-97,Eelektross,Rare,0.14,no,9.5,8.5,8.5,8,0.14,Ebay
+282,2022-05-10 14.28.37.jpg,14271.png,swsh8-202,Chansey,Common,0.04,no,8.5,8,9,8,0.04,Ebay
+283,2022-05-10 14.28.43.jpg,14097.png,swsh8-28,Vulpix,Common,0.04,no,8.5,8.5,8,9.5,0.04,Ebay
+284,2022-05-10 14.28.49.jpg,14129.png,swsh8-60,Qwilfish,Common,0.04,no,8.5,8.5,9,8.5,0.04,Ebay
+285,2022-05-10 14.28.56.jpg,14186.png,swsh8-117,Galarian Corsola,Common,0.04,no,8,8,9,9.5,0.04,Ebay
+286,2022-05-10 14.29.05.jpg,14213.png,swsh8-144,Baltoy,Common,0.04,no,8.5,8,8.5,8.5,0.04,Ebay
+287,2022-05-10 14.29.12.jpg,14144.png,swsh8-75,Clawitzer,Uncommon,0.07,no,9,8.5,8.5,8.5,0.07,Ebay
+288,2022-05-10 14.29.19.jpg,14265.png,swsh8-196,Sliggoo,Uncommon,0.04,no,8.5,9.5,8,9.5,0.04,Ebay
+289,2022-05-10 14.29.26.jpg,14300.png,swsh8-231,Crossceiver,Uncommon,0.04,no,9,8.5,8,9,0.04,Ebay
+290,2022-05-10 14.29.38.jpg,14262.png,swsh8-193,Latias,Rare,0.16,no,8,9.5,9.5,9.5,0.16,Ebay
+291,2022-05-10 14.29.45.jpg,14140.png,swsh8-71,Galarian Darumaka,Common,0.04,reverse.holo,9,8.5,8.5,9.5,0.04,Ebay
+292,2022-05-10 14.29.52.jpg,14158.png,swsh8-89,Plusle,Common,0.04,no,8.5,8.5,8.5,8,0.04,Ebay
+293,2022-05-10 14.29.59.jpg,14194.png,swsh8-125,Sandygast,Common,0.06,no,8.5,8.5,9,8.5,0.06,Ebay
+294,2022-05-10 14.30.06.jpg,14140.png,swsh8-71,Galarian Darumaka,Common,0.04,no,9,9.5,8.5,8.5,0.04,Ebay
+295,2022-05-10 14.30.13.jpg,14219.png,swsh8-150,Stufful,Common,0.04,no,9,9.5,9,9,0.04,Ebay
+296,2022-05-10 14.30.20.jpg,14116.png,swsh8-47,Sizzlipede,Common,0.04,no,8.5,8.5,9,8.5,0.04,Ebay
+297,2022-05-10 14.30.27.jpg,14285.png,swsh8-216,Hawlucha,Uncommon,0.07,no,8.5,9.5,9.5,9.5,0.07,Ebay
+298,2022-05-10 14.30.33.jpg,14301.png,swsh8-232,Dancer,Uncommon,0.04,no,9.5,8,8.5,8.5,0.04,Ebay
+299,2022-05-10 14.30.48.jpg,14084.png,swsh8-15,Virizion,Rare,0.13,no,8.5,9,9,9.5,0.13,Ebay
