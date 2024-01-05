@@ -182,6 +182,8 @@ var save = function(){
     img.src = imgFile;
 };
 
+/* Old Code */
+/*
 var identify = function(){
     resetResults()
     referenceImageBlock=  document.querySelector('.referenceImage')
@@ -222,11 +224,13 @@ var identify = function(){
     };
 
 }
+*/
 
 let subtotal=0
 let count=0
  
-function fillCardInfo(cardInfo){
+function fillCardInfo(cardInfo, artwork_data){
+  /*
   cardInfoPanel=  document.querySelector('.cardInfoPanel')
   groupContainer=  document.querySelector('.cardInfoPanel .groupContainer')
   group=  document.querySelector('.cardInfoPanel .group')
@@ -253,6 +257,31 @@ function fillCardInfo(cardInfo){
   referenceImage=  document.querySelector('.referenceImage img')
   referenceImage.src=cardInfo["matchedCardImage"]
   referenceImage.src=cardInfo["artworkImage"]
+  */
+  cardInfoPanel=  document.querySelector('.cardInfoPanel')
+  groupContainer=  document.querySelector('.cardInfoPanel .groupContainer')
+  group=  document.querySelector('.cardInfoPanel .group')
+  groupTotal=  document.querySelector('.cardInfoPanel .subtotal')
+
+  detailTemplate=  document.querySelector('.cardInfoPanel .detail.template')
+
+  normalizedInfo.push({
+    'label':'Name',
+    'value':cardInfo['name'],
+    'class':,
+  })
+  normalizedInfo.push({
+    'label':'Sell Price',
+    'value':cardInfo['averageSellPrice'],
+    'class':,
+  })
+
+  for (let detail of normalizedInfo){
+    addDetail(detailTemplate, detail['label'], detail['value'], cardInfoPanel, detail['class'])
+  }
+
+  referenceImage=  document.querySelector('.referenceImage img')
+  referenceImage.src=artwork_data
 }
 
 function addDetail(detailTemplate, detail, value, cardInfoPanel, classes){
@@ -379,6 +408,11 @@ function initialize_web_socket() {
 						//ctx.drawImage(img, 0, 0); // Draw the image at coordinates (0, 0)
 					};
 				}
+        
+        //figure out format of values from message
+        if (jsonResult['message']=='ok' && jsonResult['message']['cardValues'] !== NULL){
+          fillCardInfo(jsonResult['message']['cardValues'], jsonResult['message']['artwork_data'])
+        }
 
 				//document.querySelector('#text-source-text').value=document.querySelector('#text-source-text').value +'\n'+ event.data;
 				//text_to_questions_preview(false);

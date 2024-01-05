@@ -517,7 +517,7 @@ class controller:
         cam.release()
         cv2.destroyAllWindows()
 
-    async def publishImageFeed(self, resized_image=None, message=None, is_result=False):
+    async def publishImageFeed(self, resized_image=None, message=None, is_result=False, cardValues=None, artwork_data=None):
         try:
             #print('update camera  feed')
             if resized_image is not None:
@@ -531,6 +531,8 @@ class controller:
                         ,'message': message
                         ,'is_result': is_result
                         ,'frame' : base64_image
+                        ,'cardValues' : cardValues
+                        ,'artwork_data' : artwork_data
                     }
 
             await self.websocket.send_message(json.dumps(message))
@@ -714,6 +716,7 @@ class controller:
                 message = 'card is backside'
             else:
                 print("card_code: {0}".format(card_code))
+                #cardValues is row id from database for the match
                 cardValues = card_data.get_card(card_code)
                 if cardValues is not None:
                     image_file = os.path.join(cardValues['set_code'],cardValues['code']+".png")
@@ -731,7 +734,7 @@ class controller:
                         matched_image_resized = cv2.resize(matched_image, (int(matched_image.shape[1] * max_height / matched_image.shape[0]), max_height))
                         combined_image = cv2.hconcat([source_image, matched_image_resized])
                         
-                        await self.publishImageFeed(combined_image, image_file, True)
+                        await self.publishImageFeed(combined_image, image_file, True, cardValues, artwork_data)
 
 
                     if message is None:
